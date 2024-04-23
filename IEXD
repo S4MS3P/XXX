@@ -1,0 +1,3 @@
+$r = "$env:tmp\pawnd.txt"
+echo "PAWNED" > $r
+notepad $r
